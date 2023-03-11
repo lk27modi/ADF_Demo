@@ -1,0 +1,9 @@
+{
+	"name": "AZ-demoDev85",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4628522-105c-4fba-91e4-4859e47fe705",
+		"tenantId": "aeea7d06-d19c-47c3-a14f-09050ca44ef0"
+	}
+}
